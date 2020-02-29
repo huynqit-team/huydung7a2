@@ -1,0 +1,274 @@
+*{margin:0;padding:0; }
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+img.anhlogo {
+    width: 98px;
+    height: 30px;
+    text-align: right;
+    /* border-bottom: 1px solid gray; */
+    /* padding-bottom: 7px; */
+    line-height: 10p;
+}
+
+.menu-right a {
+    color: white;
+    display: block;
+    padding: 10px 12px;
+    border-bottom: 1px solid gray;
+}
+
+.menu-right a:hover {
+    background: gray;
+    underline-color: unset;
+}
+
+ul.menu-right {
+    list-style: none;
+}
+
+.menuphai {
+    top: 5px;
+    background: #222222;
+    position: fixed;
+    width: 250px;
+    transition: 0.4s;
+    z-index: 3;
+    height: 100%;
+    right: -250px;
+    color: white;
+}
+
+.menuphai-ra {
+    right:0px;    
+}
+
+.menu a.fa.fa-bars {
+    color: white;
+    font-size: 17px;
+}
+
+.menu {
+    right: 8px;
+    top: 5px;
+    position: fixed;
+    padding: 11px 19px;
+    background: #00000061;
+    /* color: white; */
+    /* height: 100%; */
+}
+
+.menu:hover {
+    background: black;
+}
+
+.top5 {
+    padding-bottom: 44px;
+}
+
+.banquyen p {
+    padding-bottom: 100px;
+}
+
+.footer h5 {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.footer {
+    padding-top: 100px;
+    padding-bottom: 19px;
+}
+
+.top6 {
+    padding: 60px 0px;
+    background: #337AB7;
+    /* color: white; */
+}
+
+.top6 h2 {
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+
+.top6 h2 {
+    color: white;
+    font-size: 22px;
+}
+
+a.btn.btn-default.view-more {
+    border-radius: 0;
+    background: #0000009e;
+    color: white;
+}
+
+a.btn.btn-default.view-more:hover {
+    background: #000000c9;
+}
+
+.top5 img {
+    padding-bottom: 30px;
+}
+
+.top5 img:hover {
+    opacity: 0.8;
+}
+
+.top4 h1 {
+    font-size: 61px;
+    font-weight: 900;
+    color: white;
+}
+
+.top4 {
+    background: url(images/callout.jpg);
+    padding: 170px 0px;
+}
+
+.top3 a.btn {
+    padding: 8px 11px;
+    border-radius: 0;
+}
+
+.top3 h3 {
+    font-size: 20px;
+}
+
+.big-cloud .fa {
+    background: white;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    color: #337AB7;
+    font-size: 43px;
+    line-height: 90px;
+}
+
+.top2 h2 {
+    font-size: 29px;
+    /* font-weight: bold; */
+}
+
+.top2 p {
+    font-size: 20px;
+}
+
+.top2 {
+    padding: 70px 0px;
+}
+
+.top1 h1 {
+    font-size: 60px;
+    font-weight: 900;
+}
+
+body {
+    font-family: Source Sans Pro;
+}
+
+.menuphai.menuphai-ra {
+    top: 5px;
+}
+
+hr.vienduoi {
+    width: 9%;
+    margin: auto;
+}
+
+.mang-xa-hoi {
+    padding: 17px 0px;
+}
+
+a.btn.btn-default.click-me {
+    border-radius: 0;
+    background: white;
+    color: black;
+    padding: 10px 22px;
+    font-size: 18px;
+}
+a.btn.btn-default.look-at-me{
+    border-radius: 0;
+    background: white;
+    color: white;
+    padding: 10px 14px;
+    font-size: 18px;
+    margin-left: 10px;
+    background: #1F496E;
+}
+
+a.btn.btn-default.look-at-me:hover {
+    background: black;
+}
+
+.big-cloud.fa {
+    background: white;
+    width: 80px;
+    height: 80px;
+    color: black;
+    
+    border-radius: 50%;
+}
+
+.top3 {
+    background: #337AB7;
+    color: white;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.top3 p {
+    font-size: 13px;
+}
+
+hr.vien-duoi {
+    width: 9%;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.top3 h2 {
+    font-size: 32px;
+}
+
+.top1 a.btn.btn-default {
+    border: none;
+    border-radius: 0px;
+    background: #00000069;
+    color: white;
+    padding: 14px 20px;
+}
+
+.top1 a.btn.btn-default:hover {
+    background: #000000ab;
+    /* border-radius: 0px; */
+    /* background: #00000069; */
+    /* color: white; */
+    /* padding: 14px 20px; */
+}
+
+.top1 h1 {
+    /* padding-top: 55px; */
+}
+
+.top1 p {
+    font-size: 24px;
+}
+
+.top1 {
+    background: url(images/bg.jpg);
+    width: 100%;
+    height: 650px;
+    background-size: cover;
+}
+
+.top1 {
+    padding-top: 230px;
+}

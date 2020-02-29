@@ -1,0 +1,107 @@
+*{margin:0;padding:0; }
+
+a.btn.btn-default.nut {
+    padding: 14px 15px;
+}
+
+.cot-phai {
+    margin-top: 16px;
+}
+
+.nenanh2 h1 {
+    font-size: 30px;
+    font-weight: 900;
+    text-shadow: 0px 5px 0px black;
+}
+
+.nentrang1 p {
+    font-size: 16px;
+    padding-top: 31px;
+}
+
+.nentrang1 h2 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.nenxam1 h2 {padding-top: 70px;}
+
+hr.ngan {
+    width: 47%;
+    background: black;
+    border-top: 4px solid #e7e7e7;
+}
+
+.nenxam1 h2 {
+    font-weight: 700;
+}
+
+.nenxam1 {
+    padding: 48px 0px;
+    border-bottom: 1px solid #E7E7E7;
+    background: #F8F8F8;
+}
+
+.nenAnhTop h1 {
+    color: white;
+    font-size: 58px;
+    font-weight: 900;
+    text-shadow: 1px 3px 0px gray;
+}
+
+.navbar-default {
+    margin-bottom: 0px;
+}
+ 
+
+ body{
+ 	font-family: 'Lato', sans-serif;
+ }
+
+small {
+    padding-left: 116px;
+}
+
+.footer {
+    padding-bottom: 72px;
+    padding-top: 5px;
+    margin-bottom: 0px;
+}
+
+small {
+    color: gray;
+}
+
+.menu-trai {
+    padding-top: 9px;
+    margin-right: 33px;
+    margin-left: 114px;
+}
+
+.nenanh2 {
+    padding: 90px 0px;
+    background: url(images/banner-bg.jpg);
+    color: white;
+}
+
+.nentrang1 {
+    padding-top: 14px;
+    padding-bottom: 58px;
+}
+
+.nenxam1 p {
+    padding-top: 36px;
+}
+
+.nenAnhTop h3 {
+    font-size: 23px;
+    color: white;
+    text-shadow: 0px 1px 0px black;
+}
+
+.nenAnhTop {
+    text-align: center;
+    padding-top: 238px;
+    padding-bottom: 288px;
+    background: url(images/intro-bg.jpg);
+}

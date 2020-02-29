@@ -1,0 +1,293 @@
+*{margin:0;padding:0; }
+
+div#inside {}
+
+.ngoi-sao,.contact-me .ngoi-sao {}
+
+.contact-me .ngoi-sao {
+    /* color: #333333; */
+    /* width: 10px; */
+}
+
+.address h2 {
+    text-align: center;
+    padding-bottom: 36px;
+}
+
+button.btn.btn-primary.send-btn {
+    padding: 20px 36px;
+    font-size: 16pt;
+    margin-bottom: 30px;
+}
+
+button.btn.btn-primary.send-btn:hover {
+    background: #15584B;
+}
+
+textarea {
+    color: #ACB6C0;
+    border: none;
+    padding: 20px 20px;
+    font-size: 15pt;
+    width: 100%;
+}
+
+input.form-control {
+    height: 51px;
+    width: 100%;
+    padding: 20px 20px;
+    border: none;
+    /* border-bottom: 1px solid brown; */
+    font-size: 16pt;
+    border-radius: 0;
+}
+
+.about h2,.contact-me h2 {
+    text-transform: uppercase;
+    font-size: 44px;
+    font-weight: 900;
+    padding-top: 46px;
+    padding-bottom: 30px;
+}
+
+.about {
+    color: white;
+    padding-bottom: 58px;
+    background: #18BC9C;
+}
+
+.san-pham {
+    margin-bottom: 43px;
+    position: relative;
+}
+
+.ngoi-sao i {
+    color: #f30909;
+    background: white;
+    background: white;
+}
+
+.portfolio .ngoi-sao i {
+    color: black;
+    background: blue;
+    width: 30px;
+    height: 30px;
+}
+
+.portfolio h2 {
+    color: #2C3E50;
+    padding-top: 86px;
+    text-transform: uppercase;
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.nen-xanh h1 {
+    font-size: 57px;
+    /* font-weight: 900; */
+}
+
+.nen-xanh {
+    color: white;
+    background: #18BC9C;
+    padding: 90px 0px;
+}
+
+.ngoi-sao i.fa.fa-star,.contact-me .ngoi-sao i {
+    background: #18BC9C;
+    width: 48px;
+    padding: 0px 10px;
+    height: 24px;
+    /* padding: 6px; */
+    position: relative;
+    top: -30px;
+    font-size: 31px;
+}
+
+.contact-me .ngoi-sao i.fa.fa-star {
+    color: #F44336;
+    background: white;
+}
+
+.portfolio .ngoi-sao i.fa.fa-star {
+    background: white;
+}
+
+.ngoi-sao i {}
+
+.ngoi-sao, .contact-me div.ngoi-sao {
+    width: 14%;
+    border-top: 3px solid white;
+    /* border-top: white; */
+    border-top FONT-WEIGHT: 100;
+    text-align: center;
+    margin: auu;
+    /* margin-top: 39px; */
+    margin: auto;
+    padding-top: 14px;
+}
+
+.ngoi-sao> i {
+    background: gren;
+}
+
+.navbar-default .nav > li > a {
+    color: white;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background: black;
+    color: white;
+    transition: all 0.5s;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #18bc9c;
+}
+
+a {}
+
+a.btn.btn-default.nut-down {
+    padding: 19px 30px;
+    font-size: 19px;
+    font-weight: bold;
+    background: #18BC9C;
+    border: 2px solid white;
+}
+
+a.btn.btn-default.nut-down:hover {
+    background: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    text-transform: uppercase;
+    padding-top: 44px;
+    font-size: 30px;
+    text-shadow: 10px;
+}
+
+.tienhoa a.navbar-brand {
+    padding-top: 24px;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #18bc9c;
+}
+
+body {font-family: 'Montserrat', sans-serif;}
+
+.address {
+    background: #2C3E50;
+    color: white;
+    padding: 52px 0px;
+    margin: auto;
+}
+
+.bieu-tuong {
+    margin-left: 12px;
+    width: 55px;
+    border: 2px solid white;
+    color: white;
+    height: 55px;
+    background: #2C3E50;
+    text-align: center;
+    padding-top: 13px;
+    border-radius: 50%;
+    font-size: 26px;
+    text-align: center;
+}
+
+.bieu-tuong:hover {
+    background: white;
+    color: #5bbd9c;
+    transition: 0.4s;
+}
+
+button.btn.btn-primary.send-btn {
+    background: #5bbd9c;
+    border: none;
+    border-radius: 0;
+}
+
+.contact-me .ngoi-sao i {
+    color: black;
+    background: white;
+}
+
+.about .row {
+    font-size: 16px;
+    line-height: 25px;
+    padding-bottom: 14px;
+}
+
+.about .ngoi-sao {
+    width: 273px;
+}
+
+.san-pham .phong-to {
+    margin-bottom: 0px;
+}
+
+.phong-to i.fa.fa-search-plus {
+    padding-top: 99px;
+}
+
+.phong-to {
+    transition: all 0.4s;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    background: #5bbd9c;
+    top: 0;
+    text-align: center;
+    cursor: pointer;
+}
+
+.san-pham:hover .phong-to {
+    opacity: 0.7;
+    transition: 0.8s;
+}
+
+.phong-to i {
+    /* width: 49px; */
+    color: white;
+    font-size: 47px;
+    /* height: 30px; */
+}
+
+.portfolio .ngoi-sao {
+    border-color: black;
+    margin-top: 18px;
+}
+
+ul.nav.navbar-nav.navbar-right {
+    padding-top: 28px;
+    color: white;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+}
+
+.tienhoa ul.nav.navbar-nav.navbar-right {
+    padding-top: 12px;
+}
+
+nav.navbar.navbar-default {
+    height: 111px;
+    background: #2C3E50;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.tienhoa {
+    height: 70px;
+    /* margin-bottom: 0px; */
+}
+
+nav.navbar.navbar-default {
+    margin-bottom: 0px;
+    transition: all 0.5s;
+}
+ 
+
+ 

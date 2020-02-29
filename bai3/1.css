@@ -1,0 +1,70 @@
+*{margin:0;padding:0; }
+
+.xam .btn.btn-default {
+    /* padding-bottom: 36px; */
+}
+
+h2.what {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.xam {
+    background: #474E5D;
+    color: white;
+}
+
+.xam p {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.btn.btn-default {
+    padding: 14px 23px;
+}
+
+.footer {
+    margin-top: 80px;
+    background: #2f2f2f;
+    color: white;
+    padding: 50px;
+}
+
+.xanh h3 {
+    padding-bottom: 38px;
+    padding-top: 38px;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.xam {
+    padding-bottom: 50px;
+}
+
+.xanh {
+    padding-bottom: 83px;
+}
+
+.navbar-default {border: none;}
+
+.navbar-default .navbar-nav > li > a {text-transform: uppercase;letter-spacing: 1.9px;font-size: 16px;}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #337ab7;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+nav.navbar.navbar-default {
+    height: 80px;
+    padding-top: 14px;
+}
+ 
+.xanh {   
+    background-color: #1abc9c;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    color: white;
+}
